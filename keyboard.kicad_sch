@@ -2287,12 +2287,6 @@
 		(uuid "0220b661-5eaa-4bea-98fa-b599fd7a33c2")
 	)
 	(junction
-		(at 86.36 158.75)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "04e19da1-194d-42e2-b2e3-d22618102a32")
-	)
-	(junction
 		(at 201.93 77.47)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2447,12 +2441,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "392bfc0d-13bb-476c-a5a0-805874ac69a3")
-	)
-	(junction
-		(at 97.79 161.29)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "397ecbf0-ded2-41cf-93af-eb5ca8aadccc")
 	)
 	(junction
 		(at 167.64 40.64)
@@ -2621,6 +2609,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5a13fd79-0e58-4415-920a-5703e37708be")
+	)
+	(junction
+		(at 243.84 199.39)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6035db79-3479-4218-896b-1068f3f24172")
 	)
 	(junction
 		(at 144.78 95.25)
@@ -2825,12 +2819,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8f8758cf-51de-4658-8b62-a038815c43cf")
-	)
-	(junction
-		(at 135.89 118.11)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8fc76f6e-2989-4a72-a392-2da3031b4919")
 	)
 	(junction
 		(at 73.66 48.26)
@@ -3256,6 +3244,16 @@
 	)
 	(wire
 		(pts
+			(xy 285.75 203.2) (xy 146.05 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0762caa0-5eaf-46ae-aafd-f5066d5c7b14")
+	)
+	(wire
+		(pts
 			(xy 133.35 95.25) (xy 133.35 168.91)
 		)
 		(stroke
@@ -3263,6 +3261,16 @@
 			(type default)
 		)
 		(uuid "08e80f3f-9283-42a4-82a9-ab4307cf9837")
+	)
+	(wire
+		(pts
+			(xy 146.05 203.2) (xy 146.05 184.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0964db1b-a6a8-4c68-93dd-bee35ed913bf")
 	)
 	(wire
 		(pts
@@ -3283,6 +3291,16 @@
 			(type default)
 		)
 		(uuid "0e984782-a602-4aba-b9fe-5f640b41f87c")
+	)
+	(wire
+		(pts
+			(xy 147.32 204.47) (xy 273.05 204.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0ee5fb90-d20b-478e-8419-881efd30a165")
 	)
 	(wire
 		(pts
@@ -3416,13 +3434,13 @@
 	)
 	(wire
 		(pts
-			(xy 135.89 186.69) (xy 147.32 186.69)
+			(xy 243.84 205.74) (xy 243.84 199.39)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "1acd2500-f2c7-40f9-aa68-33d9a55f5cb4")
+		(uuid "198f1beb-c8be-44a3-94e2-2089c39b03fe")
 	)
 	(wire
 		(pts
@@ -3626,6 +3644,26 @@
 	)
 	(wire
 		(pts
+			(xy 144.78 186.69) (xy 144.78 205.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3472aae0-16e6-4b30-ab74-e50b85332229")
+	)
+	(wire
+		(pts
+			(xy 266.7 176.53) (xy 285.75 176.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "348a6002-69d1-4f88-904b-92ec43b87d76")
+	)
+	(wire
+		(pts
 			(xy 96.52 66.04) (xy 107.95 66.04)
 		)
 		(stroke
@@ -3633,26 +3671,6 @@
 			(type default)
 		)
 		(uuid "370a4938-8ead-4644-86aa-628257517be1")
-	)
-	(wire
-		(pts
-			(xy 86.36 189.23) (xy 86.36 158.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "38cb1007-153d-4c8f-b47b-954d69974dec")
-	)
-	(wire
-		(pts
-			(xy 147.32 189.23) (xy 86.36 189.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "398ad23e-5829-4e02-98c6-346e5ad449cf")
 	)
 	(wire
 		(pts
@@ -3783,6 +3801,16 @@
 			(type default)
 		)
 		(uuid "4a54a3a2-7948-40be-b47d-bb43c4146562")
+	)
+	(wire
+		(pts
+			(xy 273.05 179.07) (xy 266.7 179.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4aa1c1ee-f5fb-4362-bd4e-9250f94900a1")
 	)
 	(wire
 		(pts
@@ -3923,6 +3951,16 @@
 			(type default)
 		)
 		(uuid "601d10af-4833-470b-80a5-9a0178a4adb7")
+	)
+	(wire
+		(pts
+			(xy 285.75 176.53) (xy 285.75 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "60997579-e01d-47df-8703-d7835f197ed3")
 	)
 	(wire
 		(pts
@@ -4136,6 +4174,16 @@
 	)
 	(wire
 		(pts
+			(xy 147.32 186.69) (xy 144.78 186.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "741df07c-a068-4393-a9c7-3a37634e0360")
+	)
+	(wire
+		(pts
 			(xy 179.07 8.89) (xy 179.07 22.86)
 		)
 		(stroke
@@ -4173,16 +4221,6 @@
 			(type default)
 		)
 		(uuid "75bfef90-4c25-4fca-b32b-6b312965789e")
-	)
-	(wire
-		(pts
-			(xy 135.89 125.73) (xy 135.89 186.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "76aa8fb5-d494-4b61-aea1-bd02ffe1fb51")
 	)
 	(wire
 		(pts
@@ -4376,6 +4414,16 @@
 	)
 	(wire
 		(pts
+			(xy 144.78 205.74) (xy 243.84 205.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8524efcf-b1f1-4465-8574-c0eb6b390ab6")
+	)
+	(wire
+		(pts
 			(xy 62.23 30.48) (xy 73.66 30.48)
 		)
 		(stroke
@@ -4446,16 +4494,6 @@
 	)
 	(wire
 		(pts
-			(xy 135.89 118.11) (xy 142.24 118.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8b5d4f05-265d-40eb-a711-f0132ee4e4ae")
-	)
-	(wire
-		(pts
 			(xy 120.65 22.86) (xy 120.65 40.64)
 		)
 		(stroke
@@ -4503,16 +4541,6 @@
 			(type default)
 		)
 		(uuid "8f72d90b-80e0-4789-b3f4-2aacdb179e6d")
-	)
-	(wire
-		(pts
-			(xy 97.79 184.15) (xy 97.79 161.29)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8f9143bd-f69e-49a8-9c5d-ed8c15cab389")
 	)
 	(wire
 		(pts
@@ -4696,6 +4724,16 @@
 	)
 	(wire
 		(pts
+			(xy 273.05 204.47) (xy 273.05 179.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9ec5ba00-9b53-4f7e-a920-882330120d9d")
+	)
+	(wire
+		(pts
 			(xy 269.24 66.04) (xy 269.24 156.21)
 		)
 		(stroke
@@ -4846,6 +4884,16 @@
 	)
 	(wire
 		(pts
+			(xy 147.32 189.23) (xy 147.32 204.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "afe0ae0f-4733-44ba-8864-fe0945fe89ab")
+	)
+	(wire
+		(pts
 			(xy 264.16 87.63) (xy 229.87 87.63)
 		)
 		(stroke
@@ -4963,16 +5011,6 @@
 			(type default)
 		)
 		(uuid "be821668-5e65-473e-a594-30a0785ebe47")
-	)
-	(wire
-		(pts
-			(xy 147.32 184.15) (xy 97.79 184.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c27da895-4ff6-4cf3-8802-9f4acb984706")
 	)
 	(wire
 		(pts
@@ -5163,6 +5201,16 @@
 			(type default)
 		)
 		(uuid "dad29e33-f686-4453-abd1-ead7827a5ca1")
+	)
+	(wire
+		(pts
+			(xy 146.05 184.15) (xy 147.32 184.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dafe6b6d-7b85-49f6-b0b6-ccc125ffc749")
 	)
 	(wire
 		(pts
@@ -5376,7 +5424,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 118.11) (xy 135.89 118.11)
+			(xy 119.38 118.11) (xy 142.24 118.11)
 		)
 		(stroke
 			(width 0)
@@ -14598,110 +14646,6 @@
 			(project "keyboard"
 				(path "/026a5706-fdc0-4427-9d80-94609c064bdd"
 					(reference "D41")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:1N4148")
-		(at 135.89 121.92 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "99a863e1-a873-498d-bfdf-8ba31d733362")
-		(property "Reference" "D83"
-			(at 138.43 120.6499 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1N4148"
-			(at 138.43 123.1899 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
-			(at 135.89 121.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 135.89 121.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "100V 0.15A standard switching diode, DO-35"
-			(at 135.89 121.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 135.89 121.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 135.89 121.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "8b9fc8c7-d98b-41dc-92f2-c9568e5d45d0")
-		)
-		(pin "2"
-			(uuid "f02af9f4-17f4-4194-8474-0d66ee20f3a0")
-		)
-		(instances
-			(project "keyboard"
-				(path "/026a5706-fdc0-4427-9d80-94609c064bdd"
-					(reference "D83")
 					(unit 1)
 				)
 			)

@@ -1,22 +1,19 @@
-Category,Item,Spec,Qty needed,Qty to buy,Unit,Supplier,Unit price EUR,Line total EUR,Status,Notes
-PCB,PCB fabrication,"2-layer FR-4, 322 x 134.5mm, 1.6mm, black, HASL",1,5,pcs,JLCPCB,4.94,24.7,quoted,USD 24.70. Min order qty is 5
-PCB,PCB shipping,"Global Standard Direct Line, 0.87kg, 8-13 business days",1,1,,JLCPCB,17.02,17.02,quoted,Was $28.97 DHL Express. Confirm DDP status for EU VAT
-Electronics,MX switches,"Lemon linear, 5-pin PCB mount, MX compatible",82,90,pcs,AliExpress / Eagiacme,0.233,20.97,in cart,"5-pin required; soldered, not hot-swap"
-Electronics,Diodes,"1N4148, DO-35 through-hole",84,100,pcs,AliExpress / Shop1103320155,0.0225,2.25,in cart,"Not SMD, not 1N4007"
-Electronics,Microcontroller,"Raspberry Pi Pico, RP2040, micro-USB",1,1,pcs,AliExpress / TZT 123,2.08,2.08,in cart,"NOT Pico W, NOT RP2350"
-Electronics,OLED display,"SSD1306 0.96in, I2C, 4-pin",1,1,pcs,AliExpress / YouKeyi,2.48,2.48,in cart,Variant is Yellow/Blue split-colour; white is an option
-Electronics,Rotary encoder,"EC11, 5-pin, push button, 20mm half-shaft",1,5,pcs,AliExpress / DQLZV,0.788,3.94,in cart,"Bare EC11, not HW-040 module"
-Electronics,Encoder knob,6mm D-shaft / half-shaft,1,1,pcs,AliExpress,1.5,1.5,TO BUY,Must match 20mm half-shaft
-Electronics,USB cable,"Micro-USB, DATA capable",1,1,pcs,AliExpress / local,2.5,2.5,TO BUY,Many cheap cables are charge-only
-Keyboard hardware,Stabilizer 2u,"PCB-mount, OEM black",3,4,pcs,AliExpress / YMDK,0.84,3.36,"CART QTY = 1, NEEDS 3-4","Backspace, Enter, Right Shift"
-Keyboard hardware,Stabilizer 6u,"PCB-mount, OEM black",1,1,pcs,AliExpress / YMDK,0.84,0.84,in cart,6u NOT 6.25u - PCB holes are fixed
-Keyboard hardware,Keycaps,"3D printed, parametric MX",82,82,pcs,self-printed,0.0,0.0,printing,"78x 1u, 3x 2u, 1x 6u"
-Case hardware,Heatset inserts,M3 x 5 x 4.5mm brass (M3B kit),6,50,pcs,AliExpress / YMAX,0.0,11.43,in cart,OD 4.5 - drill case holes out from 4.0
-Case hardware,Screws,"M3 x 20mm DIN912 socket cap, A2-70",6,50,pcs,AliExpress / HZYUEGOU,0.064,3.22,in cart,Kit's 14mm is too short for bottom-entry
-Case,Filament,"PLA Basic 1kg, black",1,1,kg,Alzament / Alza,9.99,9.99,ordered,"Base ~300g, frame ~100g, 82 caps ~230g"
-Case,Filament shipping,Z-Box,1,1,,Alza,2.46,2.46,ordered,Delivery 2 Sep
-Consumables,Foam sheet,"2-3mm, under PCB",1,1,sheet,AliExpress / local,2.0,2.0,TO BUY,"Takes up tolerance, reduces rattle"
-Consumables,Hookup wire,"thin silicone, 30AWG",1,1,roll,AliExpress / local,2.0,2.0,OPTIONAL,Only if rewiring encoder A/B to GPIO26/27
-Shipping,Shipping - YMDK,stabilizers,1,1,,AliExpress,5.67,5.67,,Free over EUR 22.08 from this seller
-
-,,,,,,,TOTAL,118.41,,"Note: JLCPCB figures are USD, rest EUR"
+Category,Item,Description,Qty,Supplier,Unit price (EUR),Total (EUR)
+PCB,PCB,"2-layer FR-4, 322 x 134.5 mm, 1.6 mm, black, HASL",5,JLCPCB,4.94,24.70
+PCB,PCB shipping,Global Standard Direct Line,1,JLCPCB,17.02,17.02
+Electronics,Switches,"MX linear, 5-pin",90,AliExpress,0.233,20.97
+Electronics,Diodes,"1N4148, DO-35",100,AliExpress,0.0225,2.25
+Electronics,Microcontroller,Raspberry Pi Pico (RP2040),1,AliExpress,2.08,2.08
+Electronics,OLED display,"SSD1306 0.96"", I2C, 4-pin",1,AliExpress,2.48,2.48
+Electronics,Rotary encoder,"EC11, 5-pin, push button, 20 mm half-shaft",5,AliExpress,0.788,3.94
+Electronics,Encoder knob,6 mm half-shaft,1,AliExpress,1.50,1.50
+Electronics,USB cable,"Micro-USB, data",1,AliExpress,2.50,2.50
+Keyboard,Stabilizer 2u,PCB-mount,4,AliExpress,0.84,3.36
+Keyboard,Stabilizer 6u,PCB-mount,1,AliExpress,0.84,0.84
+Keyboard,Keycaps,"3D printed (78x 1u, 3x 2u, 1x 6u)",82,self-printed,0.00,0.00
+Case,Heat-set inserts,"M3 x 5 x 4.5 mm, brass (kit)",1,AliExpress,11.43,11.43
+Case,Screws,"M3 x 20 mm, DIN 912 (50 pcs)",1,AliExpress,3.22,3.22
+Case,Filament,"PLA, black, 1 kg",1,Alza,9.99,9.99
+Shipping,Shipping,Alza,1,Alza,2.46,2.46
+Shipping,Shipping,AliExpress (stabilizers),1,AliExpress,5.67,5.67
+,,,,,Total,114.41

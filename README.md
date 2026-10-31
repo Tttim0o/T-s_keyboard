@@ -2,6 +2,7 @@
 I always wanted to try and build a keyboard, then I found hackclub Keeb, a YouShip-WeShip program whitch guides you through the full process of designing the keyboard and even pays the whole keyboard for you.
 This keyboard is mixture of no knowlage about pcbs, keyboards... It has 15 collums and 5 rows of keys in the 75 % layout, it has 3 macro keys a display and a rotary encoder. During the proces of building my 
 own keyboard a learned a lot (pcb design, cad design..) and it was  really fun. the whole process lasted about 15 hours. 
+The full assembly can be found here : https://cad.onshape.com/documents/07525d2c89944d0c9db79883/w/3a9a80255af722705f642198/e/c1f462bced7617f7b121b219?renderMode=0&uiState=6ae5cb62105f184d79b0cf5c
 here are some photos from the prcoess:
 keyboard completed:
 

@@ -32,3 +32,6 @@ designing the pcb
 
 
 Also sorry for the low quality of some photos.
+
+AI Disclosure:
+During this project i used ai for better understanding and learning of CAD, for finding major, minor flaws in the pcb.....

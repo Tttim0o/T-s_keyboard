@@ -3,7 +3,7 @@ title: "T-s_keyboard"
 github: "https://github.com/Tttim0o/T-s_keyboard"
 description: "This keybaord is a standard 75% keyboard with a oled and rotary encoder, also ahs 3 programable keys"
 created_at: "2026-08-31"
-total_time: "35h"
+total_time: "36h"
 ---
 
 # October 26, 2026: made the chematic
@@ -68,3 +68,11 @@ Today i moved on with the case a bit more and started making holes for the screw
 Today i completly finished off the case (including the top shell...) and started working on the software from whitch i sadly dont think i dont have photos of.
 
 **Total time spent: 5h**
+
+# November 11, 2026: Fixed things needed to resubmit
+<!-- fabricate:entry 2637 -->
+
+![](https://fabricate.hackclub-assets.com/064a1d8d6146c54b756ef76140b800958f98d3386514d3de7c8032daf855eba5/image-png/image.png)
+Today i fixed the changes the reviewers told me to make to submit and approve the project, i haven't had much time lately so its i belive a week since i was told to make them.
+
+**Total time spent: 1h**

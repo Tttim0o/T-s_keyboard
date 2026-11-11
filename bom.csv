@@ -1,19 +1,16 @@
-Category,Item,Description,Qty,Supplier,Unit price (EUR),Total (EUR)
-PCB,PCB,"2-layer FR-4, 322 x 134.5 mm, 1.6 mm, black, HASL",5,JLCPCB,4.94,24.70
-PCB,PCB shipping,Global Standard Direct Line,1,JLCPCB,17.02,17.02
-Electronics,Switches,"MX linear, 5-pin",90,AliExpress,0.233,20.97
-Electronics,Diodes,"1N4148, DO-35",100,AliExpress,0.0225,2.25
-Electronics,Microcontroller,Raspberry Pi Pico (RP2040),1,AliExpress,2.08,2.08
-Electronics,OLED display,"SSD1306 0.96"", I2C, 4-pin",1,AliExpress,2.48,2.48
-Electronics,Rotary encoder,"EC11, 5-pin, push button, 20 mm half-shaft",5,AliExpress,0.788,3.94
-Electronics,Encoder knob,6 mm half-shaft,1,AliExpress,1.50,1.50
-Electronics,USB cable,"Micro-USB, data",1,AliExpress,2.50,2.50
-Keyboard,Stabilizer 2u,PCB-mount,4,AliExpress,0.84,3.36
-Keyboard,Stabilizer 6u,PCB-mount,1,AliExpress,0.84,0.84
-Keyboard,Keycaps,"3D printed (78x 1u, 3x 2u, 1x 6u)",82,self-printed,0.00,0.00
-Case,Heat-set inserts,"M3 x 5 x 4.5 mm, brass (kit)",1,AliExpress,11.43,11.43
-Case,Screws,"M3 x 20 mm, DIN 912 (50 pcs)",1,AliExpress,3.22,3.22
-Case,Filament,"PLA, black, 1 kg",1,Alza,9.99,9.99
-Shipping,Shipping,Alza,1,Alza,2.46,2.46
-Shipping,Shipping,AliExpress (stabilizers),1,AliExpress,5.67,5.67
-,,,,,Total,114.41
+Category,Item,Description,Qty,Supplier,Unit price (EUR),Total (EUR),Link
+PCB,PCB,"2-layer FR-4, 322 x 134.5 mm, 1.6 mm, black, HASL",5,JLCPCB,4.94,24.70,
+PCB,PCB shipping,Global Standard Direct Line,1,JLCPCB,17.02,17.02,
+Electronics,Switches,"MX linear, 5-pin",90,AliExpress,0.233,20.97,https://www.aliexpress.com/item/1005006942544256.html
+Electronics,Diodes,"1N4148, DO-35",100,AliExpress,0.0221,2.21,https://www.aliexpress.com/item/1005009379098965.html
+Electronics,Microcontroller,Raspberry Pi Pico (RP2040),1,AliExpress,1.93,1.93,https://www.aliexpress.com/item/1005009171992446.html
+Electronics,OLED display,"SSD1306 0.96"", I2C, 4-pin",1,AliExpress,2.46,2.46,https://www.aliexpress.com/item/1005006141235306.html
+Electronics,Rotary encoder,"EC11, 5-pin, push button, 20 mm half-shaft",5,AliExpress,0.754,3.77,https://www.aliexpress.com/item/1005007644083514.html
+Keyboard,Stabilizer 2u,PCB-mount,4,AliExpress,0.61,2.44,https://www.aliexpress.com/item/32864774665.html
+Keyboard,Stabilizer 6u,PCB-mount,1,AliExpress,0.67,0.67,https://www.aliexpress.com/item/32864774665.html
+Keyboard,Keycaps,"3D printed (78x 1u, 3x 2u, 1x 6u)",82,self-printed,0.00,0.00,
+Case,Heat-set inserts,"M3 x 5 x 4.5 mm, brass (kit)",1,AliExpress,13,13.00,https://www.aliexpress.com/item/1005005467831636.html
+Case,Screws,"M3 x 20 mm, DIN 912 (50 pcs)",1,AliExpress,3.27,3.27,https://www.aliexpress.com/item/32968483467.html
+Case,Filament,"PLA, black, 1 kg",1,Alza,9.99,9.99,https://www.aliexpress.com/item/1005005992077485.html
+Shipping,Shipping,AliExpress (stabilizers),1,AliExpress,5.67,5.67,
+,,,,,Total,114.56,
